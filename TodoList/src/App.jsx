@@ -1,7 +1,3 @@
-// Completed
-
-// Icons from this site:=> https://react-icons.github.io/react-icons/
-
 
 import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
