@@ -24,7 +24,7 @@ A **minimalist and efficient** To-Do List application built using **React** and 
    ```  
 3️⃣ Start the development server:  
    ```bash
-   npm start
+   npm run dev
    ```  
 
 ---
