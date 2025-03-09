@@ -15,7 +15,7 @@ A **minimalist and efficient** To-Do List application built using **React** and 
 ### 🚀 How to Run  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/todolist-app.git
+   git clone https://github.com/Amey8050 /todolist-app.git
    cd todolist-app
    ```  
 2️⃣ Install dependencies:  
